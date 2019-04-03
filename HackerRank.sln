@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{1265FC3D-8D09-41F0-A27F-D27A431080B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrotoConditionalStatements", "IntrotoConditionalStatements\IntrotoConditionalStatements.csproj", "{085768D2-A9E5-4C4A-88BE-77BBEBD44329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1265FC3D-8D09-41F0-A27F-D27A431080B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1265FC3D-8D09-41F0-A27F-D27A431080B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1265FC3D-8D09-41F0-A27F-D27A431080B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085768D2-A9E5-4C4A-88BE-77BBEBD44329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085768D2-A9E5-4C4A-88BE-77BBEBD44329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085768D2-A9E5-4C4A-88BE-77BBEBD44329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085768D2-A9E5-4C4A-88BE-77BBEBD44329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
