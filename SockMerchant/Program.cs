@@ -10,6 +10,7 @@ namespace SockMerchant
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hellööö");
         }
     }
 }
