@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AVeryBigSum
 {
     class Program
-    {/ Complete the aVeryBigSum function below.
+    {// Complete the aVeryBigSum function below.
     static long aVeryBigSum(long[] ar)
         {
             ar = Array.ConvertAll(Console.ReadLine().Split(' '), arTemp => Convert.ToInt64(arTemp));

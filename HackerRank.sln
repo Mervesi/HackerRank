@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{0F218E3E-A2D5-47E8-8C55-6EE872369CB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{713BFDED-CCFF-4A7C-8E6D-4AE6FD8DF7DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0F218E3E-A2D5-47E8-8C55-6EE872369CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F218E3E-A2D5-47E8-8C55-6EE872369CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F218E3E-A2D5-47E8-8C55-6EE872369CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713BFDED-CCFF-4A7C-8E6D-4AE6FD8DF7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713BFDED-CCFF-4A7C-8E6D-4AE6FD8DF7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713BFDED-CCFF-4A7C-8E6D-4AE6FD8DF7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713BFDED-CCFF-4A7C-8E6D-4AE6FD8DF7DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
