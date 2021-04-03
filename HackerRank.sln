@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{2269F089-0901-4042-940B-BD4D8E28E34A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "JumpingOnTheClouds\JumpingOnTheClouds.csproj", "{505F31A1-496B-4DF2-8D67-EAAD1655924A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{0B793AD0-F0FD-4327-B53D-ACABFE35FED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{2269F089-0901-4042-940B-BD4D8E28E34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2269F089-0901-4042-940B-BD4D8E28E34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2269F089-0901-4042-940B-BD4D8E28E34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505F31A1-496B-4DF2-8D67-EAAD1655924A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505F31A1-496B-4DF2-8D67-EAAD1655924A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505F31A1-496B-4DF2-8D67-EAAD1655924A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505F31A1-496B-4DF2-8D67-EAAD1655924A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B793AD0-F0FD-4327-B53D-ACABFE35FED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B793AD0-F0FD-4327-B53D-ACABFE35FED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B793AD0-F0FD-4327-B53D-ACABFE35FED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B793AD0-F0FD-4327-B53D-ACABFE35FED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
