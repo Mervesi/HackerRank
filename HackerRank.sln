@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "RepeatedS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDArrays_Ds", "TwoDArrays_Ds\TwoDArrays_Ds.csproj", "{2F632161-6422-41DE-9D28-05FC57731929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays.LeftRoation", "Arrays.LeftRoation\Arrays.LeftRoation.csproj", "{94827806-0200-4B7D-AC36-335501D79885}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{2F632161-6422-41DE-9D28-05FC57731929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F632161-6422-41DE-9D28-05FC57731929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F632161-6422-41DE-9D28-05FC57731929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94827806-0200-4B7D-AC36-335501D79885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94827806-0200-4B7D-AC36-335501D79885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94827806-0200-4B7D-AC36-335501D79885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94827806-0200-4B7D-AC36-335501D79885}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
